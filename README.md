@@ -83,4 +83,25 @@ The Boltzmann transport equation (BTE) is a robust mathematical tool to conceive
 <p align="center">
 <img src="Validation/kappa_predic_crossplane.png" align="center" alt="drawing" width="700px"> 
 </p> 
+
+# Phonon Bandpass Filttering in Bulk Alloys with Nanoscale Porrosity
+
+The lattice thermal conductivity of alloys is generally determined by a combination of phonon-phonon Umklapp and mass disorder scatterings. The three-phonon scattering processes strongly rely on stiffness matrix and anharmonic bonding, while the mass disorder relies on the difference in the atomic mass of compounds. The mass mismatch strongly scatters phonons with short wavelengths near the Brillouin zone edge with negligible detriment to phonons with long wavelengths near the center of the Brillouin zone. The additive nanoscale porosity limits propagation of long-MFP phonons near the Brillouin zone center, thus, alloys with nanoscale porosity imprint ultra-low thermal conductivity and suppressed phonons distribution across the frequency spectrum. Thus, the central strategy behind the phonon's band-pass filtering is to selectively scatter phonons within specific frequency ranges. Following figures show band-pass filtering through additive point defect alloys and nanoscale porosity in AlAs from first-principles calculations. High-frequency low-wavelength optical phonons are completely filtered out and the acoustic phonons (except for the ones near the Brillouin zone center) are strongly suppressed due to mass-disorder scattering. The reduction in thermal conductivity exceeds 90%. More than 70% reduction in lattice thermal conductivity through filtering long-MFP short-wavelength phonons is observed. As aforementioned, long-wavelength phonons do not see the pores in bulk AlAs with ϕ = 0.25 and L = 100 nm. Phonons across the whole frequency spectrum are strongly suppressed leading to about 97% reduction in thermal conductivity in the alloys with nanoscale porosity. Such an extreme reduction in thermal conductivity is due to the interplay between phonon-boundary and phonon mass mismatch scatterings. 
+
+<p align="center">
+<img src="Bandpass/Fig-00-bulk-AlAs-500K-L-100nm.png" align="center" alt="drawing" width="700px"> 
+</p> 
+
+<p align="center">
+<img src="Bandpass/Fig-01-NP-AlAs-500K-L-100nm-025.png" align="center" alt="drawing" width="700px"> 
+</p> 
+
+<p align="center">
+<img src="Bandpass/Fig-02-bulk-Al08In02As-500K-L-100nm.png" align="center" alt="drawing" width="700px"> 
+</p> 
+
+<p align="center">
+<img src="Bandpass/Fig-03-NP-Al08In02As-500K-L-100nm-025.png" align="center" alt="drawing" width="700px"> 
+</p> 
+
   
