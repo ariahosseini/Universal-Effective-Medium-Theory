@@ -63,6 +63,9 @@ where the correction term, Ξ, that accounts for truncation of long MFP phonons,
 </p>
 with the Knudsen number Kn=λ<sub>o</sub>/L<sub>w</sub>. For Kn = 1, we have κ<sub>FILM</sub> = 1/2κ<sub>BULK</sub>. For Kn → 0, Ξ → 1, recovering the diffusive regime. For large Kn, i.e., in the ballistic regime, Ξ ≈ Ln(Kn)/Kn.
 </p>
+<p align="center">
+<img src="Kn.png" align="center" alt="drawing" width="700px"> 
+</p>
 
 # Model Validation
 
@@ -106,6 +109,8 @@ The lattice thermal conductivity of alloys is generally determined by a combinat
 
 # Characteristic MFP of Alloys — Group-IV and Group III-V  
 
+The characteristic MFP and bulk thermal conductivity of wide sweep of IV and III-V dielectrics at different temperatures.
+
 <p align="center">
 <img src="Characteristic-MFP/AlGaAs.png" align="center" alt="drawing" width="700px"> 
 </p> 
@@ -132,5 +137,15 @@ The lattice thermal conductivity of alloys is generally determined by a combinat
 
 <p align="center">
 <img src="Characteristic-MFP/SiSn.png" align="center" alt="drawing" width="700px"> 
+</p> 
+
+# Lattice Thermal Conductivity
+
+<p align="center">
+<img src="Bulk-Thermal-Conductivity/Picture1.png" align="center" alt="drawing" width="700px"> 
+</p> 
+
+<p align="center">
+<img src="Bulk-Thermal-Conductivity/Picture2.png" align="center" alt="drawing" width="700px"> 
 </p> 
 
