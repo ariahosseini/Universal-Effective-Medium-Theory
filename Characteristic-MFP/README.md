@@ -1,1 +1,1 @@
-# Characteristic mean free path
+Characteristic mean free path
