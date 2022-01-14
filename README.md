@@ -50,7 +50,7 @@ To begin, we lay out the theoretical basis for the Ballistic Correction Model (B
 </p>
 and 
 <p align="center">
-<img src="https://latex.codecogs.com/png.latex?%5Cdpi%7B300%7D%20%5Calpha%28%5CLambda%29%20%3D%20%5Cfrac%7B1%7D%7B%5Ckappa_%7B%5Cmathrm%7BBULK%7D%7D%7D%5Cint_0%5E%5CLambda%20K%28%5CLambda%27%29%20d%5CLambda%27%5Capprox%20%5Cleft%5B1&plus;%5Cfrac%7B%5CLambda_0%7D%7B%5CLambda%7D%5Cright%5D%5E%7B-1%7D%2C%20%5Clabel%7Beq%3Aalpha%7D" align="center" alt="drawing">
+<img src="https://latex.codecogs.com/png.latex?%5Cdpi%7B100%7D%20S%28%5CLambda%29%5Capprox%20S%280%29%5Cleft%5B1&plus;%5CLambda/L_w%20%5Cright%5D%5E%7B-1%7D" align="center" alt="drawing">
 </p>
 
 These logistic function approximations (on a log scale abscissa) hold for most of materials and simple geometries. Here, λ<sub>o</sub> is the characteristic MFP showing the medium MFP of phonon distribution, L<sub>w</sub>_w is the average phonon line-of-sight to the geometric centers and S(0) is the macroscopic suppression function equal to S(0) = κ<sub>f</sub>/κ<sub>b</sub>, where κ<sub>f</sub> is the Fourier's prediction of the effective thermal conductivity. The BCM model predicts:
