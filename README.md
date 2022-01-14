@@ -25,7 +25,7 @@ The ability to tune phonon transport through nanoscale engineering holds promise
 - [REFERENCES](#REFERENCES)
 - [CITATION](#Citation)
 
-# GETTING STARTED
+# Geetting Started
 
 <div align="justify">
 
@@ -64,5 +64,23 @@ where the correction term, Ξ, that accounts for truncation of long MFP phonons,
 with the Knudsen number Kn=λ<sub>o</sub>/L<sub>w</sub>. For Kn = 1, we have κ<sub>FILM</sub> = 1/2κ<sub>BULK</sub>. For Kn → 0, Ξ → 1, recovering the diffusive regime. For large Kn, i.e., in the ballistic regime, Ξ ≈ Ln(Kn)/Kn.
 </p>
 
- 
+# Model Validation
+
+The Boltzmann transport equation (BTE) is a robust mathematical tool to conceive thermal conductivity in the (non)diffusive regime. Thus we validated the BCM model against a set of simulations performed using the BTE solver AlmaBTE.~\cite{carrete2017almabte} The development and validation of AlmaBTE with experimental data have been established in the literature through a series of publications over the last years. The phonon dispersions and the scattering rates were computed on at least a 30 by 30 by 30 points Brillouin zone mesh sampling; the second and third-order interatomic force constants for bulk materials, computed with density functional theory and using the virtual crystal approximation, are obtained from the AlmaBTE materials database.
+
+<p align="center">
+<img src="Validation/kappa.png" align="center" alt="drawing" width="700px"> 
+</p> 
+
+<p align="center">
+<img src="Validation/kappa_predic_alloys.png" align="center" alt="drawing" width="700px"> 
+</p> 
+
+<p align="center">
+<img src="Validation/kappa_predic.png" align="center" alt="drawing" width="700px"> 
+</p> 
+
+<p align="center">
+<img src="Validation/kappa_predic_crossplane.png" align="center" alt="drawing" width="700px"> 
+</p> 
   
