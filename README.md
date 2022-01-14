@@ -143,9 +143,13 @@ SiSn alloys
 
 # Lattice Thermal Conductivity
 
+The lattice thermal conductvity and phonon scattering in Group III-V 
+
 <p align="center">
 <img src="Bulk-Thermal-Conductivity/Picture1.png" align="center" alt="drawing" width="700px"> 
 </p> 
+
+The lattice thermal conductvity and phonon scattering in Group-IV 
 
 <p align="center">
 <img src="Bulk-Thermal-Conductivity/Picture2.png" align="center" alt="drawing" width="700px"> 
