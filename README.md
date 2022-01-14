@@ -155,7 +155,7 @@ The lattice thermal conductvity and phonon scattering in Group-IV
 <img src="Bulk-Thermal-Conductivity/Picture2.png" align="center" alt="drawing" width="700px"> 
 </p> 
 
-# Table of Lattice Thermal Conductivity, Charractristic MFP and Diffusive Suppression
+# Tables of the Lattice Thermal Conductivity, Charractristic MFP in Non-alloys materials and Diffusive Suppression for Pores with Different Shapes and Porosity
 <p align="center">
 <img src="Table.png" align="center" alt="drawing" width="700px"> 
 </p> 
