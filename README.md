@@ -11,7 +11,7 @@ The ability to tune phonon transport through nanoscale engineering holds promise
 - [Phonon Bandpass Filtering in Bulk Alloys with Nanoscale Porosity](#Phonon-Bandpass-Filtering-in-Bulk-Alloys-with-Nanoscale-Porosity)
 - [Characteristic MFP of Alloys](#Characteristic-MFP-of-Alloys)
 - [Lattice Thermal Conductivity](#Lattice-Thermal-Conductivity)
-- [Tables of the Lattice Thermal Conductivity, Charractristic MFP in Dielectrics and Diffusive Suppression for Pores with Different Shapes and Porosity](#Tables-of-the-Lattice-Thermal-Conductivity,-Charractristic-MFP-in-Dielectrics-and-Diffusive-Suppression-for-Pores-with-Different-Shapes-and-Porosity)
+- [Tables of the Lattice Thermal Conductivity Charractristic MFP in Dielectrics and Diffusive Suppression for Pores with Different Shapes and Porosity](#Tables-of-the-Lattice-Thermal-Conductivity-Charractristic-MFP-in-Dielectrics-and-Diffusive-Suppression-for-Pores-with-Different-Shapes-and-Porosity)
 
 
 # Theory
@@ -128,7 +128,7 @@ The lattice thermal conductvity and phonon scattering in Group-IV
 <img src="Bulk-Thermal-Conductivity/Picture2.png" align="center" alt="drawing" width="700px"> 
 </p> 
 
-# Tables of the Lattice Thermal Conductivity, Charractristic MFP in  Dielectrics and Diffusive Suppression for Pores with Different Shapes and Porosity
+# Tables of the Lattice Thermal Conductivity Charractristic MFP in Dielectrics and Diffusive Suppression for Pores with Different Shapes and Porosity
 
 <p align="center">
 <img src="Table.png" align="center" alt="drawing" width="700px"> 
